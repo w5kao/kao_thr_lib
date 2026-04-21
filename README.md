@@ -1,4 +1,4 @@
-# my_thr_lib
+# kao_thr_lib
 Library for initialization and synchronization of pool of threads
 Written by Alexander O. Korotkevich, w5kao@yahoo.com (c) 2009.
 
